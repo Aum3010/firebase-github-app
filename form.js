@@ -1,3 +1,4 @@
+//boilerplate code
 return (
 		<Container className='text-center'>
 			<Row>
